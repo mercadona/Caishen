@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Presentr",
+    name: "Caishen",
     platforms: [.iOS(.v11)],
     products: [.library(name: "Caishen", targets: ["Caishen"])],
     dependencies: [],
